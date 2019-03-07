@@ -29,3 +29,4 @@ I've laid out the emojis in three tables — serverwide, web-specific, and iOS-s
 | <img src=emojis/appstore.png height=64 /> | appstore.png | `:appstore:` |
 | <img src=emojis/swift.png height=64 /> | swift.png | `:swift:` |
 | <img src=emojis/xcode.png height=64 /> | xcode.png | `:xcode:` |
+| <img src=emojis/cocoapods.png height=64 /> | cocoapods.png | `:cocoapods:` |
