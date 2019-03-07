@@ -9,23 +9,23 @@ I've laid out the emojis in three tables — serverwide, web-specific, and iOS-s
 
 | Emoji | Filename | Shortcode |
 |:-----:|------|-----------|
-| <center><img src=emojis/appbrewery.png height=64 /></center> | <center>appbrewery.png</center> | <center>`:appbrewery:`</center> |
-| <center><img src=emojis/github.png height=64 /></center> | <center>github.png</center> | <center>`:github:`</center> |
-| <center><img src=emojis/sketch.png height=64 /></center> | <center>sketch.png</center> | <center>`:sketch:`</center> |
+| <img src=emojis/appbrewery.png height=64 /> | appbrewery.png | `:appbrewery:` |
+| <img src=emojis/github.png height=64 /> | github.png | `:github:` |
+| <img src=emojis/sketch.png height=64 /> | sketch.png | `:sketch:` |
 
 ### Web-Specific
 
 | Emoji | Filename | Shortcode |
 |:-----:|------|-----------|
-| <center><img src=emojis/api.png height=64 /></center> | <center>api.png</center> | <center>`:api:`</center> |
-| <center><img src=emojis/css.png height=64 /></center> | <center>css.png</center> | <center>`:css:`</center> |
-| <center><img src=emojis/html.png height=64 /></center> | <center>html.png</center> | <center>`:html:`</center> |
-| <center><img src=emojis/javascript.png height=64 /></center> | <center>javascript.png</center> | <center>`:javascript:`</center> |
+| <img src=emojis/api.png height=64 /> | api.png | `:api:` |
+| <img src=emojis/css.png height=64 /> | css.png | `:css:` |
+| <img src=emojis/html.png height=64 /> | html.png | `:html:` |
+| <img src=emojis/javascript.png height=64 /> | javascript.png | `:javascript:` |
 
 ### iOS-Specific
 
 | Emoji | Filename | Shortcode |
 |:-----:|------|-----------|
-| <center><img src=emojis/appstore.png height=64 /></center> | <center>appstore.png</center> | <center>`:appstore:`</center> |
-| <center><img src=emojis/swift.png height=64 /></center> | <center>swift.png</center> | <center>`:swift:`</center> |
-| <center><img src=emojis/xcode.png height=64 /></center> | <center>xcode.png</center> | <center>`:xcode:`</center> |
+| <img src=emojis/appstore.png height=64 /> | appstore.png | `:appstore:` |
+| <img src=emojis/swift.png height=64 /> | swift.png | `:swift:` |
+| <img src=emojis/xcode.png height=64 /> | xcode.png | `:xcode:` |
