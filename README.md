@@ -9,23 +9,23 @@ I've laid out the emojis in three tables — serverwide, web-specific, and iOS-s
 
 | Emoji | Filename | Shortcode |
 |:-----:|------|-----------|
-| <center>![appbrewery](emojis/appbrewery.png =64x)</center> | <center>appbrewery.png</center> | <center>`:appbrewery:`</center> |
-| <center>![github](emojis/github.png =64x)</center> | <center>github.png</center> | <center>`:github:`</center> |
-| <center>![sketch](emojis/sketch.png =64x)</center> | <center>sketch.png</center> | <center>`:sketch:`</center> |
+| <center><img src=emojis/appbrewery.png height=64 /></center> | <center>appbrewery.png</center> | <center>`:appbrewery:`</center> |
+| <center><img src=emojis/github.png height=64 /></center> | <center>github.png</center> | <center>`:github:`</center> |
+| <center><img src=emojis/sketch.png height=64 /></center> | <center>sketch.png</center> | <center>`:sketch:`</center> |
 
 ### Web-Specific
 
 | Emoji | Filename | Shortcode |
 |:-----:|------|-----------|
-| <center>![api](emojis/api.png =64x)</center> | <center>api.png</center> | <center>`:api:`</center> |
-| <center>![css](emojis/css.png =64x)</center> | <center>css.png</center> | <center>`:css:`</center> |
-| <center>![html](emojis/html.png =64x)</center> | <center>html.png</center> | <center>`:html:`</center> |
-| <center>![javascript](emojis/javascript.png =64x)</center> | <center>javascript.png</center> | <center>`:javascript:`</center> |
+| <center><img src=emojis/api.png height=64 /></center> | <center>api.png</center> | <center>`:api:`</center> |
+| <center><img src=emojis/css.png height=64 /></center> | <center>css.png</center> | <center>`:css:`</center> |
+| <center><img src=emojis/html.png height=64 /></center> | <center>html.png</center> | <center>`:html:`</center> |
+| <center><img src=emojis/javascript.png height=64 /></center> | <center>javascript.png</center> | <center>`:javascript:`</center> |
 
 ### iOS-Specific
 
 | Emoji | Filename | Shortcode |
 |:-----:|------|-----------|
-| <center>![appstore](emojis/appstore.png =64x)</center> | <center>appstore.png</center> | <center>`:appstore:`</center> |
-| <center>![swift](emojis/swift.png =64x)</center> | <center>swift.png</center> | <center>`:swift:`</center> |
-| <center>![xcode](emojis/xcode.png =64x)</center> | <center>xcode.png</center> | <center>`:xcode:`</center> |
+| <center><img src=emojis/appstore.png height=64 /></center> | <center>appstore.png</center> | <center>`:appstore:`</center> |
+| <center><img src=emojis/swift.png height=64 /></center> | <center>swift.png</center> | <center>`:swift:`</center> |
+| <center><img src=emojis/xcode.png height=64 /></center> | <center>xcode.png</center> | <center>`:xcode:`</center> |
